@@ -3,7 +3,7 @@
 body {
 text-align: center;
 color: black;
-font-size: 50px;
+font-size: 35px;
 
 }
 </style>
