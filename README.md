@@ -13,7 +13,6 @@ body {
 text-align: center;
 color: black;
 font-size: 35px;
-
 }
 </style>
 </head>
