@@ -1,21 +1,15 @@
 <html>
-<head>
-<title>Page Title</title>
-<style>
+<head><style>
 body {
-  background-color: yellow;
-  text-align: center;
-  color: black;
+text-align: center;
+color: black;
 }
 </style>
 </head>
 <body>
-
 <h1>香港</h1>
-
 </body>
 </html>
-
 
 <style>
 body {
