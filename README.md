@@ -21,20 +21,6 @@ font-size: 35px;
 </body>
 </html>
 
-<html>
-<head><style>
-body {
-text-align: center;
-color: white ;
-font-size: 28px;
-background-color:DodgerBlue
-}
-</style>
-</head>
-<body>
-<a href="www.google.com">圖片</a>
-</body>
-</html>
 
 
 
