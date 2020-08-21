@@ -11,14 +11,14 @@ body {
 <head><style>
 body {
 text-align: center;
-color: black;
+color: yellow ;
 font-size: 35px;
 }
 </style>
 </head>
 <body>
 <h1>香港</h1>
-<p style="color:White;">香港是充滿著歷史的地方，有不少的
+<p style="color:black;">香港是充滿著歷史的地方，有不少的
 舊式建築物。近年政府不斷推重建計劃，導致有不少的舊式建築物重建成
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
 的建築物。</p>
