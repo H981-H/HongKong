@@ -1,1 +1,3 @@
-<div style="background-image: url('img_girl.jpg');">
+<div style="background-image: url('7871993E-740C-4568-808F-F80F13120476.jpeg
+
+');">
