@@ -3,6 +3,8 @@
 body {
 text-align: center;
 color: black;
+font-size: 50px;
+
 }
 </style>
 </head>
