@@ -1,4 +1,4 @@
-<h1 style="background-color:yellow;">---------------香港係我屋企!---------------</h1>
+<h1 style="background-color:yellow;">香港係我屋企!</h1>
 
 <style>
 body {
