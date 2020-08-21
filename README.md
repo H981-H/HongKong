@@ -1,1 +1,9 @@
-<h1 style="color:blue;">香港係我屋企</h1>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="color:blue;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+
+</body>
+</html>
