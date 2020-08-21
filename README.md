@@ -1,4 +1,18 @@
-<h1 style="background-color:yellow;">香港係我屋企!</h1>
+<html>
+<head>
+<title>Page Title</title>
+<style>
+body {
+  background-color: yellow;
+  text-align: center;
+  color: black;
+}
+</style>
+</head>
+<body>
+<h1>This is a Heading</h1>
+</body>
+</html>
 
 <style>
 body {
