@@ -18,7 +18,7 @@ font-size: 35px;
 </head>
 <body>
 <h1>香港</h1>
-<p>👏🏻仲整緊👏🏻</p>
+<p1 style="background-color:DodgerBlue;">圖片</p1>
 <p>聯絡我們：</p>
 </body>
 </html>
