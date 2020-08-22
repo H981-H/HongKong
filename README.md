@@ -22,19 +22,30 @@ font-size: 35px;
 </body>
 </html>
 
-
-<p style="background-color:rgba(255, 99, 71, 0.2);">香港是一個歷史悠久的地方，有不少的
+<html>
+<head><style>
+body {
+text-align: center;
+color: white  ;
+font-size: 28px;
+background-color:rgba(255, 99, 71, 0.2);
+}
+</style>
+</head>
+<body>
+香港是一個歷史悠久的地方，有不少的
 舊式建築物。近年政府不斷推重建計劃，導致有不少的舊式建築物重建成
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
-的建築物。</p>
-<p style="color:white;">HongKong is a place with
+的建築物。
+HongKong is a place with
 long history and many ancient buildings. In recent years,
 the government has continued to promote reconstruction 
 plans .As a result, many ancient buildings were reconstructed
 into new buildings.Therefore,it is hoped that buildings with 
 historical value/significance will be preserved through this 
-website.</p>
-
+website.
+</body>
+</html>
 
 
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
