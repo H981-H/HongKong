@@ -38,7 +38,7 @@ is a place with long history and many ancient buildings.
 In recent years,the government has continued to promote 
 reconstruction plans .As a result, many ancient buildings were 
 reconstructed into new buildings.Therefore,it is hope to take photos 
-of buildings with historical value/significance and upload them to this 
+of historical value/significance buildings and upload them to this 
 website.</p></b
 </body2>
 
