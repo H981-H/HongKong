@@ -23,6 +23,11 @@ font-size: 35px;
 舊式建築物。近年政府不斷推重建計劃，導致有不少的舊式建築物重建成
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
 的建築物。</p></b>
+<b><p style="color:white;">HongKong is a place with
+long history and ancient buildings. In recent years,
+the grovenrnment has continued to promote reconstruction 
+plan.As a result, many ancient buildings were reconstructed
+into new buildings.Therefore,
 </body>
 </html>
 
