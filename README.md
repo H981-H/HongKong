@@ -21,7 +21,13 @@ font-size: 35px;
 <I><h1 style="color:yellow ;">HongKong</h1></I>
 </body1>
 
-<body>
+<style>
+body2 {
+text-align: center;
+font-size: 28px;
+}
+</style>
+<body2>
 <b><p style="color:white  ;">香港是一個歷史悠久的地方，有不少的
 舊式建築物。近年政府不斷推重建計劃，導致有不少的舊式建築物重建成
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
@@ -33,7 +39,7 @@ plans .As a result, many ancient buildings were reconstructed
 into new buildings.Therefore,it is hoped that buildings with 
 historical value/significance will be preserved through this 
 website.</p></b>
-</body>
+
 </html>
 
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
@@ -47,4 +53,4 @@ website.</p></b>
 </a>
 
 <p style="color:black;"> 電郵email:$&$$$$$&$&$&$$@gmail.com </p>
-
+</body2>
