@@ -27,7 +27,9 @@ font-size: 35px;
 long history and ancient buildings. In recent years,
 the grovenrnment has continued to promote reconstruction 
 plan.As a result, many ancient buildings were reconstructed
-into new buildings.Therefore,
+into new buildings.Therefore,it is hoped that buildings with 
+historical value/meaning will be preserved via this website.
+
 </body>
 </html>
 
