@@ -23,9 +23,7 @@ font-size: 35px;
 </html>
 
 
-
-<html>
-<head><style>
+<style>
 body {
 text-align: center;
 color: white  ;
@@ -47,7 +45,7 @@ into new buildings.Therefore,it is hoped that buildings with
 historical value/significance will be preserved through this 
 website.
 </body>
-</html>
+
 
 
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
