@@ -10,16 +10,16 @@ body {
 <html>
 <head>
 <style>
-body {
+body1 {
 text-align: center;
 font-size: 35px;
 }
 </style>
 </head>
-<body>
+<body1>
 <I><h1 style="color:yellow ;">香港</h1></I>
 <I><h1 style="color:yellow ;">HongKong</h1></I>
-</body>
+</body1>
 
 <body>
 <b><p style="color:white  ;">香港是一個歷史悠久的地方，有不少的
