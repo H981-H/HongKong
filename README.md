@@ -45,10 +45,10 @@ website.</p></b>
 <style>
 body3 {
 text-align: center;
-font-size:35px;  
+font-size:25px;  
 }
 </style>
-<body1>
+<body3>
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
 <img src="D56A50D0-E5F1-4690-8EE9-6E1AF1352ED7.jpeg
 "  style="width:480px;height:160px;"></a>
@@ -57,5 +57,5 @@ font-size:35px;
 "  style="width:480px;height:160px;"></a>
 
 <p style="color:black;"> 電郵email:$&$$$$$&$&$&$$@gmail.com </p>
-</body1>
+</body3>
 </html>
