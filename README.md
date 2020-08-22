@@ -34,9 +34,9 @@ website.</p></b>
 </body>
 </html>
 
-<a href="www.google.com">
+<a href="www.google.com.hk ">
 <img src="3889B336-278B-4981-A194-E99EF2B1AD5F.jpeg
-"  style="width:500px;height:250px;">
+"  style="width:450px;height:150px;">
 </a>
 
 
