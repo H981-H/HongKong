@@ -42,7 +42,13 @@ historical value/significance will be preserved through this
 website.</p></b>
 </body2>
 
-
+<style>
+body3{
+text-align: center;
+font-size:35px;  
+}
+</style>
+<body3>
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
 <img src="D56A50D0-E5F1-4690-8EE9-6E1AF1352ED7.jpeg
 "  style="width:450px;height:150px;">
@@ -54,4 +60,5 @@ website.</p></b>
 </a>
 
 <p style="color:black;"> 電郵email:$&$$$$$&$&$&$$@gmail.com </p>
+</body3>
 </html>
