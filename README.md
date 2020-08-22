@@ -43,20 +43,20 @@ website.</p></b>
 </body2>
 
 <style>
-body3{
+body3 {
 text-align: center;
-img-align: center;
 font-size:35px;  
 }
 </style>
 <body3>
+<body>
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
 <img src="D56A50D0-E5F1-4690-8EE9-6E1AF1352ED7.jpeg
 "  style="width:480px;height:160px;"></a>
 <a href="https://www.google.com.hk/ ">
 <img src="3889B336-278B-4981-A194-E99EF2B1AD5F.jpeg
 "  style="width:480px;height:160px;"></a>
-
+</body>
 <p style="color:black;"> 電郵email:$&$$$$$&$&$&$$@gmail.com </p>
 </body3>
 </html>
