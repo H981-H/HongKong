@@ -19,10 +19,13 @@ font-size: 35px;
 <body>
 <h1><I>香港 </I></h1>
 <h1><I>HongKong</I></h1>
-<b><p style="Background-color:black(255, 99, 71, 0.2);">香港是一個歷史悠久的地方，有不少的
+</body>
+</html>
+
+<p style="Background-color:black(255, 99, 71, 0.2);">香港是一個歷史悠久的地方，有不少的
 舊式建築物。近年政府不斷推重建計劃，導致有不少的舊式建築物重建成
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
-的建築物。</p></b>
+的建築物。</p>
 <b><p style="color:white;">HongKong is a place with
 long history and many ancient buildings. In recent years,
 the government has continued to promote reconstruction 
@@ -31,8 +34,7 @@ into new buildings.Therefore,it is hoped that buildings with
 historical value/significance will be preserved through this 
 website.</p></b>
 
-</body>
-</html>
+
 
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
 <img src="D56A50D0-E5F1-4690-8EE9-6E1AF1352ED7.jpeg
