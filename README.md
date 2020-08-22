@@ -26,7 +26,7 @@ font-size: 35px;
 <b><p style="color:white;">HongKong is a place with
 long history and many ancient buildings. In recent years,
 the government has continued to promote reconstruction 
-plan.As a result, many ancient buildings were reconstructed
+plans .As a result, many ancient buildings were reconstructed
 into new buildings.Therefore,it is hoped that buildings with 
 historical value/significance will be preserved through this 
 website.</p></b>
