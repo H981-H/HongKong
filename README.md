@@ -39,7 +39,7 @@ In recent years,the government has continued to promote
 reconstruction plans .As a result, many old buildings were 
 reconstructed into new buildings.Therefore,it is hope to take photos 
 of historical value/significance buildings and upload them to this 
-website.</p></b
+website.</p></b>
 </body2>
 
 <style>
