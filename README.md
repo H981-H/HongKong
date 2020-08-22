@@ -36,7 +36,7 @@ color:white  ;
 <b><p style="background-color:rgba(0, 0, 0, 0.2);">HongKong 
 is a place with long history and many old buildings. 
 In recent years,the government has continued to promote 
-reconstruction plans resulted in many old buildings were 
+reconstruction plans  resulted in many old buildings were 
 reconstructed into new buildings.Therefore,it is hope to take photos 
 of historical value/significance buildings and upload them to this 
 website.</p></b>
