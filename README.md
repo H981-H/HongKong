@@ -24,11 +24,11 @@ font-size: 35px;
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
 的建築物。</p></b>
 <b><p style="color:white;">HongKong is a place with
-long history and ancient buildings. In recent years,
+long history and many ancient buildings. In recent years,
 the grovenrnment has continued to promote reconstruction 
 plan.As a result, many ancient buildings were reconstructed
 into new buildings.Therefore,it is hoped that buildings with 
-historical value/meaning will be preserved via this website.
+historical value/meaning will be preserved by this website.
 
 </body>
 </html>
