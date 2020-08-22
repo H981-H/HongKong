@@ -18,7 +18,7 @@ font-size: 35px;
 <body>
 
 <I><h1 style="color:yellow ;">香港</h1></I>
-<h1><I>HongKong</I></h1>
+<I><h1 style="color:yellow ;">HongKong</h1></I>
 
 <b><p style="color:white  ;">香港是一個歷史悠久的地方，有不少的
 舊式建築物。近年政府不斷推重建計劃，導致有不少的舊式建築物重建成
