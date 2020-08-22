@@ -45,6 +45,7 @@ website.</p></b>
 <style>
 body3{
 text-align: center;
+img-align: center;
 font-size:35px;  
 }
 </style>
