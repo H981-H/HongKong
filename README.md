@@ -7,20 +7,19 @@ body {
 }
 </style>
 
-<html>
-<head><style>
+<style>
 body {
 text-align: center;
 color: yellow ;
 font-size: 35px;
 }
 </style>
-</head>
+
 <body>
 <h1><I>香港 </I></h1>
 <h1><I>HongKong</I></h1>
 </body>
-</html>
+
 
 
 <style>
