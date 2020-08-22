@@ -40,7 +40,7 @@ into new buildings.Therefore,it is hoped that buildings with
 historical value/significance will be preserved through this 
 website.</p></b>
 
-</html>
+
 
 <a href="https://h981-h.github.io/HongKongPhoto/ ">
 <img src="D56A50D0-E5F1-4690-8EE9-6E1AF1352ED7.jpeg
@@ -54,3 +54,4 @@ website.</p></b>
 
 <p style="color:black;"> 電郵email:$&$$$$$&$&$&$$@gmail.com </p>
 </body2>
+</html>
