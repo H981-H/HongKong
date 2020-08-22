@@ -34,9 +34,9 @@ color:white  ;
 新式建築物。藉此，希望可以透過這平台保留著一些具有歷史價值/意義
 的建築物。</p></b>
 <b><p style="background-color:rgba(0, 0, 0, 0.2);">HongKong 
-is a place with long history and many ancient buildings. 
+is a place with long history and many old buildings. 
 In recent years,the government has continued to promote 
-reconstruction plans .As a result, many ancient buildings were 
+reconstruction plans .As a result, many old buildings were 
 reconstructed into new buildings.Therefore,it is hope to take photos 
 of historical value/significance buildings and upload them to this 
 website.</p></b
