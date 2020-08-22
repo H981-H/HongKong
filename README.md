@@ -29,7 +29,7 @@ the grovenrnment has continued to promote reconstruction
 plan.As a result, many ancient buildings were reconstructed
 into new buildings.Therefore,it is hoped that buildings with 
 historical value/meaning will be preserved by this 
-website.</b></p>
+website.</p></b>
 
 </body>
 </html>
