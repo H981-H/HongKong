@@ -69,7 +69,7 @@ font-size:25px;
 <p style="color:black;"> @copyright 2020 </p>
 
 </body3>
-
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 </html>
 
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
