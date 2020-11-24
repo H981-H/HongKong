@@ -31,7 +31,7 @@ font-size:25px;
 }
 </style>
 
-<body2 style="color:orange;>
+<body2 style="color:orange";>
 香港島Hong Kong Island:
 中西區Central& &  Western district
 灣仔區 Wai Chai District
