@@ -23,6 +23,15 @@ font-size: 35px;
 <I><h1 style="color:yellow ;">HongKong</h1></I>
 </body1>
 
+<style>
+body2 {
+text-align: center;
+font-size:25px;  
+style="color:orange
+}
+</style>
+
+<body2>
 香港島Hong Kong Island:
 中西區Central& &  Western district
 灣仔區 Wai Chai District
@@ -46,7 +55,7 @@ font-size: 35px;
 元朗區 Yuen Long District
 屯門區 Tuen Mun District
 離島區 Island District
-
+</body2>
 
 <style>
 body3 {
@@ -54,6 +63,7 @@ text-align: center;
 font-size:25px;  
 }
 </style>
+
 <body3>
 <p style="color:black;"> 電郵email:dje@gmail.com </p>
 <p style="color:black;"> @copyright 2020 </p>
