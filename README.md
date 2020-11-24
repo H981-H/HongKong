@@ -27,7 +27,7 @@ font-size: 35px;
 body2 {
 text-align: center;
 font-size:25px;  
-background-color:rgba(0, 0, 0, 0.2);
+background-color: rgba(0, 0, 0, 0.2);
 }
 </style>
 
