@@ -34,7 +34,8 @@ font-size:25px;
 </style>
 <body3>
 <p style="color:black;"> 電郵email:dje@gmail.com </p>
-@copyright 2020
+<p style="color:black;"> @copyright 2020 </p>
+
 </body3>
 
 </html>
