@@ -27,12 +27,12 @@ font-size: 35px;
 body2 {
 text-align: center;
 font-size:25px;  
-style="color:orange
+
 }
 </style>
 
-<body2>
-  <p>香港島Hong Kong Island:</p>
+<body2 style="color:orange
+香港島Hong Kong Island:
 中西區Central& &  Western district
 灣仔區 Wai Chai District
 東區 Eastern District
