@@ -27,12 +27,12 @@ font-size: 35px;
 body2 {
 text-align: center;
 font-size:25px;  
-
+style="background-color:rgba(0, 0, 0, 0.2);
 }
 </style>
 
 <body2 style="color:orange;">
-  <b><p style="background-color:rgba(0, 0, 0, 0.2);" >香港島Hong Kong Island:</p></b>
+  <b><p>香港島Hong Kong Island:</p></b>
   <p>中西區Central& &  Western district</p>
   <p>灣仔區 Wai Chai District</p>
   <p>東區 Eastern District</p>
