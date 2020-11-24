@@ -35,11 +35,11 @@ font-size:25px;
   <p>香港島Hong Kong Island:</p>
   <p>中西區Central& &  Western district</p>
   <p>灣仔區 Wai Chai District</p>
-東區 Eastern District
-南區 Sountern District
-
-九龍Kowloon：
-油尖旺區 YauTsimMong District
+  <p>東區 Eastern District</p>
+  <p>南區 Sountern District</p>
+  
+<p>九龍Kowloon：</p>
+<p>油尖旺區 YauTsimMong District</p>
 深水埗區 ShamShuiPo District
 九龍城區 Kowloon City District
 黃大仙區 Wong Tai Sin District
