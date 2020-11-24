@@ -32,21 +32,20 @@ font-size:25px;
 </style>
 
 <body2 style="color:orange;">
-  <p style="background-color:rgba(0, 0, 0, 0.2);"
-     style="font-size:25px;" >香港島Hong Kong Island:</p>
+  <b><p style="background-color:rgba(0, 0, 0, 0.2);" >香港島Hong Kong Island:</p></b>
   <p>中西區Central& &  Western district</p>
   <p>灣仔區 Wai Chai District</p>
   <p>東區 Eastern District</p>
   <p>南區 Sountern District</p>
   
-<p>九龍Kowloon：</p>
+<b><p>九龍Kowloon：</p></b>
 <p>油尖旺區 YauTsimMong District</p>
 <p>深水埗區 ShamShuiPo District</p>
 <p>九龍城區 Kowloon City District</p>
 <p>黃大仙區 Wong Tai Sin District</p>
 <p>觀塘區 Kwun Tong District</p>
 
-<p>新界New Territeries：</p>
+<b><p>新界New Territeries：</p></b>
 <p>沙田區 Sha Tin District</p>
 <p>大埔區 Tai po District</p>
 <p>北區 North District</p>
