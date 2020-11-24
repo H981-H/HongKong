@@ -31,7 +31,7 @@ font-size:25px;
 }
 </style>
 <body3>
-<p style="color:black;"> 電郵email:$&$$$$$&$&$&$$@gmail.com </p>
+<p style="color:black;"> 電郵email:dje@gmail.com </p>
 </body3>
 
 </html>
