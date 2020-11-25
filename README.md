@@ -38,7 +38,7 @@ a.one:hover {text-decoration: underline;}
 
 
 <body2 style="color:orange;">
-  <b><p>香港島Hong Kong Island:</p></b></a>
+  <b><p>香港島Hong Kong Island:</p></b>
   <p><a class="one" href="www.google.com" target="_blank">中西區Central& &  Western District</a></p>
   <p><a class="one" href="www.google.com" target="_blank">灣仔區 Wai Chai District</a></p>
   <p><a class="one" href="www.google.com" target="_blank">東區 Eastern District</a></p>
