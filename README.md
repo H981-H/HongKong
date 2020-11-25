@@ -32,7 +32,7 @@ background-color: rgba(0, 0, 0, 0.2);
 </style>
 
 <style>
-a.one:link {color: orange; text-decoration: none;}
+a.one:link {background: yellow; text-decoration: none;}
 a.one:visited {color: orange; text-decoration: none;}
 a.one:hover {text-decoration: underline;}
 </style>
