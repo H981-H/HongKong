@@ -27,7 +27,6 @@ font-size: 35px;
 body2 {
 text-align: center;
 font-size:25px;  
-background-color: rgba(0, 0, 0, 0.2);
 }
 </style>
 
@@ -40,12 +39,12 @@ a.one:hover {text-decoration: underline;}
 
 <body2 style="color:orange;">
   <b><p>香港島Hong Kong Island:</p></b></a>
-  <p><a class="one" href="google.com" target="_blank">中西區Central& &  Western District</a></p>
-  <p>灣仔區 Wai Chai District</p>
-  <p>東區 Eastern District</p>
-  <p>南區 Sountern District</p>
+  <p><a class="one" href="www.google.com" target="_blank">中西區Central& &  Western District</a></p>
+  <p><a class="one" href="www.google.com" target="_blank">灣仔區 Wai Chai District</a></p>
+  <p><a class="one" href="www.google.com" target="_blank">東區 Eastern District</a></p>
+  <p><a class="one" href="www.google.com" target="_blank">南區 Sountern District</a></p>
   
-<b><p>九龍Kowloon：</p></b>
+  <b><p>九龍Kowloon：</p></b>
 <p>油尖旺區 YauTsimMong District</p>
 <p>深水埗區 ShamShuiPo District</p>
 <p>九龍城區 Kowloon City District</p>
