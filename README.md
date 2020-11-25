@@ -32,8 +32,8 @@ background-color: rgba(0, 0, 0, 0.2);
 </style>
 
 <body2 style="color:orange;">
-  <a href="https://www.w3schools.com/"><b><p>香港島Hong Kong Island:</p></b></a>
-  <p>中西區Central& &  Western district</p>
+  <b><p>香港島Hong Kong Island:</p></b></a>
+  <p>中西區Central& &  Western District</p>
   <p>灣仔區 Wai Chai District</p>
   <p>東區 Eastern District</p>
   <p>南區 Sountern District</p>
