@@ -39,17 +39,17 @@ a.one:hover {text-decoration: underline;}
 
 <body2 style="color:orange;">
   <b><p>香港島Hong Kong Island:</p></b>
-  <p><a class="one" href="www.google.com" target="_blank">中西區Central& &  Western District</a></p>
-  <p><a class="one" href="www.google.com" target="_blank">灣仔區 Wai Chai District</a></p>
-  <p><a class="one" href="www.google.com" target="_blank">東區 Eastern District</a></p>
-  <p><a class="one" href="www.google.com" target="_blank">南區 Sountern District</a></p>
+  <p><a class="one" href="https://www.google.com" target="_blank">中西區Central& &  Western District</a></p>
+  <p><a class="one" href="https://www.google.com" target="_blank">灣仔區 Wai Chai District</a></p>
+  <p><a class="one" href="https://www.google.com" target="_blank">東區 Eastern District</a></p>
+  <p><a class="one" href="https://www.google.com" target="_blank">南區 Sountern District</a></p>
   
   <b><p>九龍Kowloon：</p></b>
-<p>油尖旺區 YauTsimMong District</p>
-<p>深水埗區 ShamShuiPo District</p>
-<p>九龍城區 Kowloon City District</p>
-<p>黃大仙區 Wong Tai Sin District</p>
-<p>觀塘區 Kwun Tong District</p>
+<p><a class="one" href="https://www.google.com" target="_blank">油尖旺區 YauTsimMong District</a></p>
+<p><a class="one" href="https://www.google.com" target="_blank">深水埗區 ShamShuiPo District</a></p>
+<p><a class="one" href="https://www.google.com" target="_blank">九龍城區 Kowloon City District</a></p>
+<p><a class="one" href="https://www.google.com" target="_blank">黃大仙區 Wong Tai Sin District</a></p>
+<p><a class="one" href="https://www.google.com" target="_blank">觀塘區 Kwun Tong District</a></p>
 
 <b><p>新界New Territeries：</p></b>
 <p>沙田區 Sha Tin District</p>
