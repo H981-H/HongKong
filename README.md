@@ -31,9 +31,16 @@ background-color: rgba(0, 0, 0, 0.2);
 }
 </style>
 
+<style>
+a.one:link {color: orange; text-decoration: none;}
+a.one:visited {color: orange; text-decoration: none;}
+a.one:hover {text-decoration: underline;}
+</style>
+
+
 <body2 style="color:orange;">
   <b><p>香港島Hong Kong Island:</p></b></a>
-  <p>中西區Central& &  Western District</p>
+  <p><a class="one" href="google.com" target="_blank">中西區Central& &  Western District</a></p>
   <p>灣仔區 Wai Chai District</p>
   <p>東區 Eastern District</p>
   <p>南區 Sountern District</p>
