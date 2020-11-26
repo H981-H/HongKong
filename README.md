@@ -66,16 +66,15 @@ a.one:hover {text-decoration: underline;}
 <style>
 body3 {
 text-align: center;
-font-size:25px;  
+font-size:20px;  
 }
 </style>
 
 <body3>
-<p style="color:black;"> 電郵email:dje@gmail.com </p>
-<p style="color:black;"> @copyright 2020 </p>
-
+<p style="color:black;"> 電郵email:xxxxxxx@gmail.com </p>
+<p style="color:black;"> @copyright 2019-2021</p>
 </body3>
-<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
+
 </html>
 
 
