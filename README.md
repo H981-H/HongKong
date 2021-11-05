@@ -40,7 +40,4 @@ a.one:hover {text-decoration: underline;}
 <body2 style="color:orange;">
   <b><p>testing:</p></b>
   <p><a class="one" href="https://h981-h.github.io/new/" target="_blank"> new</a></p>
-   
-
-
-</html>
+  </html>
